@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Web Developer | Building MindCare 🧠</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | Building SureDiary 🎙️ & VoltEra ⚡</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suryaprakashaiml"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,10 +10,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student (3rd year) passionate about **AI, Machine Learning & Data Science**
+- 🎓 Final-year (4th year) B.Tech student passionate about **AI, Machine Learning & Data Science**
+- 🎙️ Building **SureDiary** — an AI voice assistant app (Flutter + Node.js + Gemini AI) for voice reminders & Telegram automations
+- ⚡ Building **VoltEra** — an EV charging web app to find and book charging stations
 - 💼 **Data Analytics Intern** @ ApexPlanet Software Pvt. Ltd. (May–July 2026) — Python, SQL, EDA, Data Visualization
 - 🤖 **AI & Data Science Intern** @ Oasis Infobyte (OIBSIP) — built 5 end-to-end ML projects
-- 🧠 Building **MindCare** — a mental wellness platform
 - 📍 Jaipur, India · Open to internships & collaborations
 - 📫 **suryaprakash952153@gmail.com**
 
@@ -23,6 +24,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,10 +42,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 [**MindCare**](https://github.com/suryasharmaa/mindcare) | Mental wellness platform for accessible mental health support | HTML, CSS, JS |
-| ⚡ [**VoltEra**](https://github.com/suryasharmaa/VoltEra) | EV-focused web platform project | HTML, CSS, JS |
+| 🎙️ [**SureDiary**](https://github.com/suryasharmaa/SureDiary) | AI voice assistant app — voice-controlled reminders & Telegram automations powered by Gemini AI, with wake-word detection & background scheduling | Flutter, Node.js, TypeScript, Gemini AI, Supabase, BullMQ |
+| ⚡ [**VoltEra**](https://github.com/suryasharmaa/VoltEra) | EV charging web app to find and book charging stations | HTML, CSS, JS |
 | 🤖 [**OIBSIP**](https://github.com/suryasharmaa/OIBSIP) | 5 end-to-end AI & Data Science projects from my Oasis Infobyte internship | Python, Jupyter |
-| ⏰ [**Reminder**](https://github.com/suryasharmaa/reminder) | Goal-based smart reminder app — an advanced take on alarms | JS |
+| 📊 [**ApexPlanet Internship**](https://github.com/suryasharmaa/apex-planet-internship) | Data Analytics internship work — Python, SQL, EDA & visualization | Python, SQL |
 
 ---
 
@@ -54,4 +58,4 @@
 
 ---
 
-<p align="center"><i>💡 Open to internships & collaborations in AI/ML, Data Analytics and Web Development</i></p>
+<p align="center"><i>💡 Open to internships & collaborations in AI/ML, Data Analytics and App/Web Development</i></p>
